@@ -44,5 +44,3 @@ services:
       - wpsite
 networks:
   wpsite:
-volumes:
-  db_data:
